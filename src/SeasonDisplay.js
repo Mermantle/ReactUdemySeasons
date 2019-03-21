@@ -1,5 +1,6 @@
 import './SeasonDisplay.css';
 import React from 'react';
+// import these components
 
 const seasonConfig = {
     summer: {

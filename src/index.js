@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import SeasonDisplay from './SeasonDisplay';
 import Spinner from './Spinner';
+<<<<<<< HEAD
 // import component
+=======
+// import above components
+>>>>>>> bd15e3306f353b03227681416a3fd3261eeb282b
 
 class App extends React.Component {
     
